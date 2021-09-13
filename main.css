@@ -1,5 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
+#map {
+  position: absolute;
+  width: 100%;
+  min-height: 300px;
+  padding-inline: 10;
+  padding: 0;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   overflow-x: hidden;
